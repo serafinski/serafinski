@@ -20,7 +20,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="intellij" width="40" height="40"/> 
   </a>  
 
-<p align= "left">
+<p align= "center">
+<h3>Github statistics: </h3>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tomertin&theme=tokyonight&show_icons=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomertin&layout=compact&theme=tokyonight&l&langs_count=10" alt="my github stats" />
 </p>
