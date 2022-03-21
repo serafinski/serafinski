@@ -22,6 +22,7 @@
 
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tomertin&theme=tokyonight&show_icons=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomertin&layout=compact&theme=tokyonight&l&langs_count=10" alt="my github stats" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
