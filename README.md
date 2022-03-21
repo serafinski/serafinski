@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="intellij" width="40" height="40"/> 
   </a>
    <a href="https://github.com/" target="_blank"> 
-    <img src="GitHub-Mark-Light-120px-plus.png" alt="github" width="40" height="40"/> 
+    <img src="src/GitHub-Mark-Light-120px-plus.png" alt="github" width="40" height="40"/> 
   </a>  
 
 <div align="center">
