@@ -31,9 +31,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tomertin&theme=dark&show_icons=true" alt="languages" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomertin&layout=compact&theme=dark&l&langs_count=10" alt="my github stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomertin&theme=dark" alt="streaks" />
-  </div>
+</div>
 
-<img src="https://github.com/tomertin/tomertin/blob/main/images/stat.svg" alt="waka"/>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
