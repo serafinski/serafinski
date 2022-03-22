@@ -33,6 +33,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomertin&theme=dark" alt="streaks" />
 </div>
 
+<img src="https://github.com/tomertin/tomertin/blob/main/src/stat.svg" alt="waka"/>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
