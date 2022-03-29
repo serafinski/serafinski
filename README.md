@@ -34,6 +34,7 @@
 </div>
 
 <img src="https://github.com/tomertin/tomertin/blob/main/images/stat.svg" alt="waka"/>
+<img src="https://github.com/tomertin/tomertin/blob/main/github-metrics.svg" alt="waka_v2"/>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
