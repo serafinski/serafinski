@@ -33,6 +33,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomertin&theme=dark" alt="streaks" />
   <img src="https://github.com/tomertin/tomertin/blob/main/images/stat.svg" alt="waka"/>
   <img height= "600" src="https://wakatime.com/share/@tomertin/0af901b5-ea9c-448e-93a7-a1d6641e26f1.svg">
+  <img height= "600" src="https://wakatime.com/share/@tomertin/4538d8de-66dd-40ab-bf0f-53e74da45109.svg">
 </div>
 
 <!--START_SECTION:waka-->
