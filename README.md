@@ -40,8 +40,8 @@
 </div>
 <div align="center">
 
-<img height= "350" src="https://wakatime.com/share/@tomertin/0af901b5-ea9c-448e-93a7-a1d6641e26f1.svg"/>
-<img height= "350" src="https://wakatime.com/share/@tomertin/4538d8de-66dd-40ab-bf0f-53e74da45109.svg"/>
+<img height= "350" src="https://wakatime.com/share/@tomertin/bf0c909e-ff5b-48dc-b5c8-9db0a2a07701.svg"/>
+<img height= "350" src="https://wakatime.com/share/@tomertin/5e9cd917-109e-422c-bcd0-62b469b65408.svg"/>
 
 </div>
 <!--START_SECTION:waka-->
