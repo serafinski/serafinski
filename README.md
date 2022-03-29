@@ -32,7 +32,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomertin&layout=compact&theme=dark&l&langs_count=10" alt="my github stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomertin&theme=dark" alt="streaks" />
   <img src="https://github.com/tomertin/tomertin/blob/main/images/stat.svg" alt="waka"/>
-  <img height="350" src="https://wakatime.com/share/@tomertin/10adc508-85af-485c-92c2-cdcb45fc219c.svg">
+  <img height="350" src="https://wakatime.com/share/@tomertin/fabdb5e7-77cd-42d3-b1ca-babe28a86b66.svg">
 </div>
 
 <!--START_SECTION:waka-->
