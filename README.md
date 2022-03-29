@@ -34,6 +34,10 @@
   <img src="https://github.com/tomertin/tomertin/blob/main/images/stat.svg" alt="waka"/>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
