@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hi, I’m Tomasz Serafiński also known as @tomertin</h1>
+<h1 align="center">👋 Hi, I’m Tomasz Serafiński also known as <a href="https://y.at/eyes.laughing.bang.headphone" style="background-color: #f44336"> @tomertin</a></h1>
 <h3 align="center"> I'm a student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
+
+---
 
 ### About Me
 - 👀 I’m interested in music production, basketball, traveling, coding (duh!), video & photo editing, video games and art.
@@ -9,7 +11,9 @@
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
 - 📫 How to reach me: work.serafinski@gmail.com
+
 ---
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -24,20 +28,29 @@
   </a>
    <a href="https://github.com/" target="_blank"> 
     <img src="src/GitHub-Mark-Light-120px-plus.png" alt="github" width="40" height="40"/> 
-  </a>  
+  </a>
+</p>
+
+
+
 <div align="center">
-<h3>Github statistics: </h3>
+
+<h3 align="center">Github statistics: </h3>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tomertin&theme=dark&show_icons=true" alt="languages" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomertin&layout=compact&theme=dark&l&langs_count=10" alt="my github stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomertin&theme=dark" alt="streaks" />
-  <img src="https://github.com/tomertin/tomertin/blob/main/images/stat.svg" alt="waka"/>
+  <!--<img src="https://github.com/tomertin/tomertin/blob/main/images/stat.svg" alt="waka"/> -->
 </div>
+
+---
+
 <h3 align="center">WakaTime Stats:</h3>
 <div align="center">
 
 <img src="https://wakatime.com/badge/user/c88d1b82-ebdd-4842-ad45-93f471842103.svg"/>
 
 </div>
+
 <div align="center">
 
 <img height= "350" src="https://wakatime.com/share/@tomertin/bf0c909e-ff5b-48dc-b5c8-9db0a2a07701.svg"/>
