@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Tomasz Serafiński also known as @tomertin</h1>
 <h3 align="center"> I'm a student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
----
+
 ### About Me
 - 👀 I’m interested in music production, basketball, traveling, coding (duh!), video & photo editing, video games and art.
 
