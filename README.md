@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Tomasz Serafiński also known as @tomertin</h1>
 <h3 align="center"> I'm a student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
-
+---
 ### About Me
 - 👀 I’m interested in music production, basketball, traveling, coding (duh!), video & photo editing, video games and art.
 
@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
 - 📫 How to reach me: work.serafinski@gmail.com
-
+---
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
    <a href="https://github.com/" target="_blank"> 
     <img src="src/GitHub-Mark-Light-120px-plus.png" alt="github" width="40" height="40"/> 
   </a>  
-
+---
 <div align="center">
 <h3>Github statistics: </h3>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tomertin&theme=dark&show_icons=true" alt="languages" />
@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomertin&theme=dark" alt="streaks" />
   <img src="https://github.com/tomertin/tomertin/blob/main/images/stat.svg" alt="waka"/>
 </div>
-
+---
 <h3 align="center">WakaTime Stats:</h3>
 <div align="center">
 
@@ -46,11 +46,11 @@
 <img height= "350" src="https://wakatime.com/share/@tomertin/4538d8de-66dd-40ab-bf0f-53e74da45109.svg"/>
 
 </div>
-
+---
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
+---
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
