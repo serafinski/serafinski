@@ -4,6 +4,8 @@
 ---
 
 ### About Me
+<img align="right" width=200px height=200px src="https://24.media.tumblr.com/25ec1da1ceb3d8c59ff61abda466e66d/tumblr_ms7532YHD61sfs2qco1_500.gif"/>
+
 - 👀 I’m interested in music production, basketball, traveling, coding (duh!), video & photo editing, video games and art.
 
 - 🌱 I’m currently learning Java, C and C++.
