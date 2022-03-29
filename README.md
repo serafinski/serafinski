@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
 - 📫 How to reach me: work.serafinski@gmail.com
----
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
