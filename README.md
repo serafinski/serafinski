@@ -49,7 +49,7 @@
 <h3 align="center">WakaTime Stats:</h3>
 <div align="center">
 
-<img src="https://wakatime.com/badge/user/c88d1b82-ebdd-4842-ad45-93f471842103.svg"/>
+[![wakatime](https://wakatime.com/badge/user/c88d1b82-ebdd-4842-ad45-93f471842103.svg)](https://wakatime.com/@c88d1b82-ebdd-4842-ad45-93f471842103)
 
 </div>
 
