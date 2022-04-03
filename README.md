@@ -50,7 +50,7 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/c88d1b82-ebdd-4842-ad45-93f471842103.svg)](https://wakatime.com/@c88d1b82-ebdd-4842-ad45-93f471842103)
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-190%20Thousand%20lines%20of%20code-blue)
 </div>
 
 <div align="center">
@@ -59,10 +59,12 @@
 <img height= "300" src="https://wakatime.com/share/@tomertin/5e9cd917-109e-422c-bcd0-62b469b65408.svg"/>
 
 </div>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2027%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-190%20Thousand%20lines%20of%20code-blue)
+---
+<div align="center">
+<!--START_SECTION:waka-->
+
+
 
 **I'm an Early 🐤** 
 
@@ -122,6 +124,8 @@ Shell                    1 repo              ███░░░░░░░░�
 
  Last Updated on 03/04/2022 17:01:46 UTC
 <!--END_SECTION:waka-->
+
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
