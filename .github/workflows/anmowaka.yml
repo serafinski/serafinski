@@ -19,3 +19,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_CODE_TIME: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
+          
