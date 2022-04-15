@@ -41,7 +41,6 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tomertin&theme=dark&show_icons=true" alt="languages" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomertin&layout=compact&theme=dark&l&langs_count=10" alt="my github stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomertin&theme=dark" alt="streaks" />
-  <!--<img src="https://github.com/tomertin/tomertin/blob/main/images/stat.svg" alt="waka"/> -->
 </div>
 
 ---
@@ -62,7 +61,9 @@
 
 ---
 <div align="center">
+
 <!--START_SECTION:waka-->
+  
 **I'm an Early 🐤** 
 
 ```text
@@ -121,7 +122,3 @@ Shell                    1 repo              ███░░░░░░░░�
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.serafinski@gmail.com)
 
 </div>
-<!---
-tomertin/tomertin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
