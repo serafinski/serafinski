@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in music production, basketball, traveling, coding (duh!), video & photo editing, video games and art.
 
-- 🌱 I’m currently learning Java, C and C++.
+- 🌱 I’m currently learning Java, C, C++, Bash and SQL.
 
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
