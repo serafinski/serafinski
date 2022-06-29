@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Tomasz Serafiński also known as <a href="https://y.at/eyes.laughing.bang.headphone" style="background-color: #f44336"> @tomertin</a></h1>
+<h1 align="center">👋 Hi, I’m Tomasz Serafiński also known as <a href="https://y.at/eyes.laughing.bang.headphone" style="background-color: #f44336"> @serafinski</a></h1>
 <h3 align="center"> I'm a student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
 
 ---
