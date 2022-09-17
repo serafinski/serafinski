@@ -92,7 +92,7 @@ Sunday       24 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Warsaw
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +108,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2022 04:16:31 UTC
+ Last Updated on 17/09/2022 03:54:27 UTC
 <!--END_SECTION:waka-->
 
 </div>
