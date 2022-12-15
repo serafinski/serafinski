@@ -8,7 +8,8 @@
 
 - 👀 I’m interested in music production, basketball, traveling, coding (duh!), video & photo editing, video games and art.
 
-- 🌱 I’m currently learning Java, C++, Bash, SQL and Python.
+- 🌱 I’m currently learning Universal Programming Techniques in Java, Database Systems, Data Structures and Algorithms, Computer Networks and Network Programming in Java, Digital Systems and Basics of Electronics
+ .
 
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
@@ -22,13 +23,13 @@
   <a href="https://java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/> 
   </a>
-    <a href="https://isocpp.org/" target="_blank"> 
+  <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="intellij" width="40" height="40"/> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/> 
   </a>
-   <a href="https://github.com/" target="_blank"> 
+  <a href="https://github.com/" target="_blank"> 
     <img src="src/GitHub-Mark-Light-120px-plus.png" alt="github" width="40" height="40"/> 
   </a>
 </p>
