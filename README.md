@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in music production, basketball, traveling, coding (duh!), video & photo editing, video games and art.
 
-- 🌱 I’m currently learning Universal Programming Techniques in Java, Database Systems, Data Structures and Algorithms, Computer Networks and Network Programming in Java, Digital Systems and Basics of Electronics
+- 🌱 I’m currently learning Artificial Intelligence Tools, Fundamentals of Python programming, Database applications and Foundations of Computer Simulation
  .
 
 - 💞️ I’m looking to collaborate on any projects that I can help with!
