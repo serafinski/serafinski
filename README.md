@@ -23,11 +23,11 @@
   <a href="https://java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/> 
   </a>
-  <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/> 
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/> 
+ <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
   <a href="https://github.com/" target="_blank"> 
     <img src="src/GitHub-Mark-Light-120px-plus.png" alt="github" width="40" height="40"/> 
