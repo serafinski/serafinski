@@ -55,8 +55,8 @@
 
 <div align="center">
 
-<img height= "300" src="https://wakatime.com/share/@tomertin/bf0c909e-ff5b-48dc-b5c8-9db0a2a07701.svg"/>
-<img height= "300" src="https://wakatime.com/share/@tomertin/5e9cd917-109e-422c-bcd0-62b469b65408.svg"/>
+<img height= "300" src="https://wakatime.com/share/@serafinski/bf0c909e-ff5b-48dc-b5c8-9db0a2a07701.svg"/>
+<img height= "300" src="https://wakatime.com/share/@serafinski/5e9cd917-109e-422c-bcd0-62b469b65408.svg"/>
 
 </div>
 
@@ -104,7 +104,7 @@ Mac                      1 hr 13 mins        ████░░░░░░░�
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasz-serafi%C5%84ski/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasz-serafinski/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.serafinski@gmail.com)
 
 </div>
