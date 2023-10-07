@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in music production, basketball, traveling, coding (duh!), video & photo editing, video games and art.
 
-- 🌱 I’m currently learning Artificial Intelligence Tools, Fundamentals of Python programming, Database applications and Foundations of Computer Simulation.
+- 🌱 I’m currently learning Software Engineering, Computer Graphics, Advanced Computer Networks and Software Project Management.
 
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
