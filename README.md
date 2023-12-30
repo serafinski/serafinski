@@ -90,12 +90,11 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   99.89 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/12/2023 02:14:36 UTC
+ Last Updated on 30/12/2023 02:18:31 UTC
 <!--END_SECTION:waka-->
 
 </div>
