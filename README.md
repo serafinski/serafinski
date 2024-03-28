@@ -49,7 +49,6 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/c88d1b82-ebdd-4842-ad45-93f471842103.svg)](https://wakatime.com/@c88d1b82-ebdd-4842-ad45-93f471842103)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-190%20Thousand%20lines%20of%20code-blue)
 </div>
 
 <div align="center">
