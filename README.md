@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in music production, basketball, traveling, coding (duh!), video & photo editing, video games and art.
 
-- 🌱 I’m currently learning Software Engineering, Computer Graphics, Advanced Computer Networks and Software Project Management.
+- 🌱 I’m currently learning  Modeling and analysis of information systems, Information Systems Security, Bioinformatics, Machine Learning Foundations and Machine Vision.
 
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
@@ -19,9 +19,6 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/> 
-  </a>
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
