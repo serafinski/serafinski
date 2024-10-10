@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, my name is <a href="https://y.at/eyes.laughing.bang.headphone" style="background-color: #f44336"> Tomasz Serafiński </a></h1>
+<h1 align="center">👋 Hi, my name is <a href="https://serafinski.contact" style="background-color: #f44336"> Tomasz Serafiński </a></h1>
 <h3 align="center"> I'm a student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
 
 ---
@@ -6,9 +6,7 @@
 ### About Me
 <!-- <img align="right" width=200px height=200px src="https://24.media.tumblr.com/25ec1da1ceb3d8c59ff61abda466e66d/tumblr_ms7532YHD61sfs2qco1_500.gif"/> -->
 
-- 👀 I’m interested in music production, basketball, traveling, coding (duh!), video & photo editing, video games and art.
-
-- 🌱 I’m currently learning  Modeling and analysis of information systems, Information Systems Security, Bioinformatics, Machine Learning Foundations and Machine Vision.
+- 🌱 I’m currently learning Machine learning operations and system architectures, Intelligent Control Systems, Human-Computer Interaction.
 
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
