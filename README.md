@@ -10,7 +10,7 @@
 
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
-- 📫 How to reach me: tomasz@serafinski.net
+- 📫 How to reach me: tomasz@serafinski.contact
 
 ---
 
