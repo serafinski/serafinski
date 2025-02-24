@@ -1,11 +1,9 @@
-<h1 align="center">👋 Hi, my name is <a href="https://serafinski.contact" style="background-color: #f44336"> Tomasz Serafiński </a></h1>
-<h3 align="center"> I'm a student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
+<h1 align="center">👋 Hi, my name is <a href="https://serafinski.net" style="background-color: #f44336"> Tomasz Serafiński </a></h1>
+<h3 align="center"> I'm a DevOps Engineer and student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
 
 ---
 
 ### About Me
-<!-- <img align="right" width=200px height=200px src="https://24.media.tumblr.com/25ec1da1ceb3d8c59ff61abda466e66d/tumblr_ms7532YHD61sfs2qco1_500.gif"/> -->
-
 - 🌱 I’m currently learning Machine learning operations and system architectures, Intelligent Control Systems, Human-Computer Interaction.
 
 - 💞️ I’m looking to collaborate on any projects that I can help with!
@@ -20,11 +18,41 @@
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
- <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"> 
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+  <a href="https://groovy-lang.org" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/> 
   </a>
   <a href="https://github.com/" target="_blank"> 
     <img src="src/GitHub-Mark-Light-120px-plus.png" alt="github" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/> 
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
+  </a>
+  <a href="https://bitbucket.org" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40"/> 
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="40" height="40"/> 
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> 
+  </a>
+  <a href="https://docs.ansible.com" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="40" height="40"/> 
+  </a>
+  <a href="https://argoproj.github.io/cd/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" alt="argocd" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes" width="40" height="40"/> 
   </a>
 </p>
 
