@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-- 🌱 I’m currently learning Machine learning operations and system architectures, Intelligent Control Systems, Human-Computer Interaction.
+- 🌱 I’m currently learning: Big Data, Data exploration and visualisation, Generative technologies.
 
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
