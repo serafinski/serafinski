@@ -18,12 +18,6 @@
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://groovy-lang.org" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/> 
-  </a>
   <a href="https://github.com/" target="_blank"> 
     <img src="src/GitHub-Mark-Light-120px-plus.png" alt="github" width="40" height="40"/> 
   </a>
