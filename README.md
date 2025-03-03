@@ -42,6 +42,9 @@
   <a href="https://argoproj.github.io/cd/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" alt="argocd" width="40" height="40"/> 
   </a>
+  <a href="https://helm.sh" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> 
+  </a>
   <a href="https://www.docker.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
