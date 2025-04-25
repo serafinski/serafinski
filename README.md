@@ -51,6 +51,12 @@
   <a href="https://kubernetes.io" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes" width="40" height="40"/> 
   </a>
+  <a href="https://python.langchain.com/docs/introduction/" target="_blank"> 
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/> 
+  </a>
+  <a href="https://langchain-ai.github.io/langgraph/tutorials/introduction/" target="_blank"> 
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="40" height="40"/> 
+  </a>
 </p>
 
 
