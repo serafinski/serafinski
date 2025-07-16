@@ -59,14 +59,12 @@
   </a>
 </p>
 
-
-
 <div align="center">
 
 <h3 align="center">Github statistics: </h3>
-  <img height= "150" src="https://github-readme-stats-serafinski.vercel.app/api?username=serafinski&theme=dark&show_icons=true" alt="languages" />
-  <img height= "150" src="https://github-readme-stats-serafinski.vercel.app/api/top-langs/?username=serafinski&layout=compact&theme=dark&l&langs_count=10" alt="my github stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=serafinski&theme=dark" alt="GitHub Streak" />
+  <img height= "150" src="https://github-readme-stats-serafinskis-projects.vercel.app/api?username=serafinski&theme=dark&show_icons=true" alt="languages" />
+  <img height= "150" src="https://github-readme-stats-serafinskis-projects.vercel.app/api/top-langs/?username=serafinski&layout=compact&theme=dark&l&langs_count=10" alt="my github stats" />
+  <img align="center" src="https://github-readme-streak-stats-seven-khaki.vercel.app?user=serafinski&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
