@@ -57,6 +57,9 @@
   <a href="https://langchain-ai.github.io/langgraph/tutorials/introduction/" target="_blank"> 
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="40" height="40"/> 
   </a>
+  <a href="https://google.github.io/adk-docs/" target="_blank"> 
+    <img src="https://google.github.io/adk-docs/assets/agent-development-kit.png" alt="adk" width="40" height="40"/> 
+  </a>
 </p>
 
 <div align="center">
