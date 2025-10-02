@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-- 🌱 I’m currently learning: Machine Learning; modeling, management, processing and integration in Big Data.
+- 🌱 I’m currently learning: Machine Learning; Modeling, management, processing and integration in Big Data.
 
 - 💞️ I’m looking to collaborate on any projects that I can help with!
 
