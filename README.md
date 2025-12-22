@@ -64,12 +64,6 @@
 
 <div align="center">
 
-<h3 align="center">Github statistics: </h3>
-  <img height= "150" src="https://github-readme-stats-serafinskis-projects.vercel.app/api?username=serafinski&theme=dark&show_icons=true" alt="languages" />
-  <img height= "150" src="https://github-readme-stats-serafinskis-projects.vercel.app/api/top-langs/?username=serafinski&layout=compact&theme=dark&l&langs_count=10" alt="my github stats" />
-  <!-- <img align="center" src="https://github-readme-streak-stats-seven-khaki.vercel.app?user=serafinski&theme=dark" alt="GitHub Streak" /> -->
-</div>
-
 ---
 
 <h3 align="center">WakaTime Stats:</h3>
@@ -81,7 +75,6 @@
 <div align="center">
 
 <img height= "300" src="https://wakatime.com/share/@serafinski/bf0c909e-ff5b-48dc-b5c8-9db0a2a07701.svg"/>
-<!-- <img height= "300" src="https://wakatime.com/share/@serafinski/5e9cd917-109e-422c-bcd0-62b469b65408.svg"/> -->
 
 </div>
 
