@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, my name is <a href="https://serafinski.net" style="background-color: #f44336"> Tomasz Serafiński </a></h1>
-<h3 align="center"> I'm a DevOps Engineer and student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
+<h3 align="center"> I'm a Azure AI Engineer and student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
 
 ---
 
