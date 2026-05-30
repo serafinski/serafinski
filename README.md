@@ -28,8 +28,38 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 29/05/2026 06:07:32 UTC
+```text
+🌞 Morning                65 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+🌆 Daytime                977 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+🌃 Evening                2287 commits        █████████████░░░░░░░░░░░░   51.36 % 
+🌙 Night                  1124 commits        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   522 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Tuesday                  845 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Wednesday                392 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Thursday                 463 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Friday                   646 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Saturday                 760 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Sunday                   825 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💻 Operating System: 
+Mac                      10 hrs 59 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 05:43:16 UTC
 <!--END_SECTION:waka-->
 
 </div>
