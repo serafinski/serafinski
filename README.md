@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, my name is <a href="https://serafinski.net" style="background-color: #f44336"> Tomasz Serafiński </a></h1>
-<h3 align="center"> I'm a Azure AI Engineer and student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
+<h3 align="center"> I'm a Azure AI Engineer</a>.</h3>
 
 ---
 
-### About Me
-- 🌱 I’m currently learning: Applications of Machine Learning, Analysis of Large Data Sets and Graphs and their applications.
+<!-- ### About Me -->
+<!-- - 🌱 I’m currently learning: Applications of Machine Learning, Analysis of Large Data Sets and Graphs and their applications. -->
 
-- 💞️ I’m looking to collaborate on any projects that I can help with!
-
+<!-- - 💞️ I’m looking to collaborate on any projects that I can help with! -->
+### Contact
 - 📫 How to reach me: tomasz@serafinski.contact
 
 ---
