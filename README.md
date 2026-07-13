@@ -33,19 +33,19 @@
 ```text
 🌞 Morning                59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 🌆 Daytime                1156 commits        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-🌃 Evening                2667 commits        █████████████░░░░░░░░░░░░   51.55 % 
+🌃 Evening                2668 commits        █████████████░░░░░░░░░░░░   51.56 % 
 🌙 Night                  1292 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Tuesday                  895 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Monday                   644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Tuesday                  895 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
 Wednesday                536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 Thursday                 429 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 Friday                   727 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 Saturday                 935 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Sunday                   1008 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Sunday                   1009 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
 ```
 
 
@@ -55,11 +55,12 @@ Sunday                   1008 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💻 Operating System: 
-Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 39 mins       ███████████████████████░░   91.40 % 
+Linux                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 ```
 
 
- Last Updated on 12/07/2026 05:19:00 UTC
+ Last Updated on 13/07/2026 05:28:31 UTC
 <!--END_SECTION:waka-->
 
 </div>
