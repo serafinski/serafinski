@@ -55,12 +55,11 @@ Sunday                   1009 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💻 Operating System: 
-Linux                    5 hrs 34 mins       ███████████████████░░░░░░   76.33 % 
-Mac                      1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Linux                    5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/07/2026 05:03:43 UTC
+ Last Updated on 20/07/2026 05:32:27 UTC
 <!--END_SECTION:waka-->
 
 </div>
