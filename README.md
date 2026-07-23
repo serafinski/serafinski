@@ -32,20 +32,20 @@
 
 ```text
 🌞 Morning                59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-🌆 Daytime                1208 commits        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-🌃 Evening                2805 commits        █████████████░░░░░░░░░░░░   51.85 % 
-🌙 Night                  1338 commits        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+🌆 Daytime                1209 commits        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+🌃 Evening                2807 commits        █████████████░░░░░░░░░░░░   51.80 % 
+🌙 Night                  1344 commits        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   696 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Tuesday                  936 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Wednesday                570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Thursday                 433 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Friday                   740 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Saturday                 961 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Sunday                   1074 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Monday                   699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Tuesday                  938 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Wednesday                572 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Thursday                 435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Friday                   740 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Saturday                 961 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Sunday                   1074 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
 ```
 
 
@@ -55,11 +55,12 @@ Sunday                   1074 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💻 Operating System: 
-Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 19 mins       █████████████████░░░░░░░░   69.91 % 
+Linux                    1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   30.09 % 
 ```
 
 
- Last Updated on 22/07/2026 05:00:40 UTC
+ Last Updated on 23/07/2026 05:17:39 UTC
 <!--END_SECTION:waka-->
 
 </div>
