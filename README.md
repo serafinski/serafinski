@@ -28,38 +28,10 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-🌆 Daytime                1284 commits        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-🌃 Evening                3012 commits        █████████████░░░░░░░░░░░░   52.26 % 
-🌙 Night                  1409 commits        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   771 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Tuesday                  993 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Wednesday                617 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Thursday                 449 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Friday                   758 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Sunday                   1176 commits        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%209%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💻 Operating System: 
-Mac                      4 hrs 10 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/07/2026 05:42:15 UTC
+ Last Updated on 28/07/2026 04:57:15 UTC
 <!--END_SECTION:waka-->
 
 </div>
