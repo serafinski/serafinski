@@ -33,21 +33,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-🌆 Daytime                1309 commits        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-🌃 Evening                3078 commits        █████████████░░░░░░░░░░░░   52.36 % 
-🌙 Night                  1432 commits        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+🌞 Morning                59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+🌆 Daytime                1334 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+🌃 Evening                3151 commits        █████████████░░░░░░░░░░░░   52.53 % 
+🌙 Night                  1455 commits        ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   795 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Tuesday                  1011 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Wednesday                632 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Thursday                 455 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Friday                   764 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Saturday                 1013 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Sunday                   1208 commits        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+Monday                   819 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Tuesday                  1030 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Wednesday                647 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Thursday                 461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Friday                   770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Saturday                 1026 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Sunday                   1246 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
 ```
 
 
@@ -57,33 +57,33 @@ Sunday                   1208 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💻 Operating System: 
-Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (31.08%)
+⏱ AI Coding Time: 29 mins (23.66%)
 
-✍️ 234 lines written by AI, 230 lines written by hand (50.43% AI-written)
+✍️ 6 lines written by AI, 230 lines written by hand (2.54% AI-written)
 
-🔤 27,362,329 Input Tokens, 143,587 Output Tokens
+🔤 35,315,838 Input Tokens, 283,410 Output Tokens
 
-💵 $141.12 Estimated AI Cost This Week
+💵 $185.08 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 7 AI Sessions, 12 AI Prompts
 
-GPT                      234 lines           █████████████████████████   100.00 % 
+GPT                      6 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.43% of written lines came from AI
-📚 Verbose Prompter — average 3,312 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 54.83% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.54% of written lines came from AI
+📚 Verbose Prompter — average 3,544 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 97.93% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 05:33:24 UTC
+ Last Updated on 04/08/2026 04:56:14 UTC
 <!--END_SECTION:waka-->
 
 </div>
