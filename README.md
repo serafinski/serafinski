@@ -57,33 +57,33 @@ Sunday                   1246 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
+Mac                      54 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (100.0%)
+⏱ AI Coding Time: 54 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 5,341,251 Input Tokens, 21,144 Output Tokens
+🔤 7,554,633 Input Tokens, 26,558 Output Tokens
 
-💵 $94.35 Estimated AI Cost This Week
+💵 $38.57 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 23 AI Prompts
+🧠 1 AI Sessions, 27 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,144 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 504 characters per prompt
+🔁 Iterative Prompter — average 27 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 03:26:22 UTC
+ Last Updated on 10/08/2026 03:45:38 UTC
 <!--END_SECTION:waka-->
 
 </div>
